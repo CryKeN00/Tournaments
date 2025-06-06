@@ -15,7 +15,7 @@
 3. Распаковать приложение куда вам удобно.   
 4. Запустить TournamentsLauncher.exe   
 ## Где получить помощь?
-[Документация](https://github.com/CryKeN00/Tournaments/wiki)
+[Документация](https://github.com/CryKeN00/Tournaments/wiki)    
 [Автор проекта ВК](https://vk.com/cryken)
 ## Кто поддерживает проект?
 Автор: [CryKeN](https://github.com/CryKeN00)   
